@@ -13,5 +13,6 @@ RR means: Recovery Rate in specific country
 
 ```cassandraql
 $ git clone https://github.com/guaychou/coronamac.git
+$ cd $GOPATH/src/github.com/guaychou/coronamac
 $ go run .
 ```
